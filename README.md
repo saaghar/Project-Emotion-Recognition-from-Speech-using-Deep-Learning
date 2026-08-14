@@ -5,8 +5,11 @@
 
 # Quick Start
 Preprocess data: python data_preparation.py
+
 Train CNN baseline: python train_cnn.py
+
 Train pretrained baseline: python train_pretrained_final.py
+
 Generate report: python analysis_and_report.py
 
 
